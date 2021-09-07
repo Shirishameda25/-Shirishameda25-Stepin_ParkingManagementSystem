@@ -6,5 +6,5 @@ This classification is based on infection rates besides other factors. 319 distr
 <a href="https://frontend.code-inspector.com/public/user/github/Shirishameda25">
    <img src="https://code-inspector.com/public/badge/user/github/Shirishameda25?style=light" alt="code inspector badge" />
    <img src="https://www.code-inspector.com/project/27677/score/svg"/>
-   <img src="https://www.code-inspector.com/project/27677/ status/svg"/>
+   <img src="https://www.code-inspector.com/project/27677/status/svg"/>
 </a>
