@@ -10,3 +10,4 @@ This classification is based on infection rates besides other factors. 319 distr
 </a>
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8a1266cd9adc4229994fc06b11a3cead)](https://www.codacy.com/gh/Shirishameda25/-Shirishameda25-Stepin_ParkingManagementSystem/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Shirishameda25/-Shirishameda25-Stepin_ParkingManagementSystem&amp;utm_campaign=Badge_Grade)
 [![C/C++ CI](https://github.com/Shirishameda25/-Shirishameda25-Stepin_ParkingManagementSystem/actions/workflows/c-build.yml/badge.svg?branch=main)](https://github.com/Shirishameda25/-Shirishameda25-Stepin_ParkingManagementSystem/actions/workflows/c-build.yml)
+[![cppcheck-action](https://github.com/Shirishameda25/-Shirishameda25-Stepin_ParkingManagementSystem/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Shirishameda25/-Shirishameda25-Stepin_ParkingManagementSystem/actions/workflows/cppcheck.yml)
